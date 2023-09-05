@@ -23,7 +23,7 @@
   "dependencies": {
     "@open-rpc/schema-utils-js": "^1.15.0",
     "graphql": "^16.3.0",
-    "graphql-request": "^4.1.0",
+    "graphql-request": "^4.3.0",
     "json-schema-merge-allof": "^0.8.1"
   }
 }
